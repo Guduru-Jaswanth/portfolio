@@ -66,7 +66,7 @@ export function Nav() {
             ))}
           </ul>
           <a
-            href="https://acesse.one/lqaeiz1"
+            href="/resume/Guduru_Jaswanth_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:inline-flex text-sm font-medium px-4 py-2 rounded-full bg-gradient-to-r from-[oklch(0.68_0.18_260)] to-[oklch(0.62_0.22_295)] text-white hover:opacity-90 transition"

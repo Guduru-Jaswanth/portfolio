@@ -30,7 +30,7 @@ export function Footer() {
             <Linkedin className="size-4" />
           </a>
           <a
-            href="https://acesse.one/lqaeiz1"
+            href="/resume/Guduru_Jaswanth_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Resume"
