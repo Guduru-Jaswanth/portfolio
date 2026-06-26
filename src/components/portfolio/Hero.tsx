@@ -70,7 +70,7 @@ export function Hero() {
               View Projects <ArrowRight className="size-4 group-hover:translate-x-1 transition" />
             </a>
             <a
-              href="https://acesse.one/lqaeiz1"
+              href="/resume/Guduru_Jaswanth_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-3 rounded-full glass hover:bg-white/10 transition font-medium"
