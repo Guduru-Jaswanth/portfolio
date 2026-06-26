@@ -81,7 +81,7 @@ export function Contact() {
               <span className="text-xs">LinkedIn</span>
             </a>
             <a
-              href="https://acesse.one/lqaeiz1"
+              href="/resume/Guduru_Jaswanth_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="glass rounded-2xl p-4 flex flex-col items-center gap-1.5 hover:bg-white/10 transition"
