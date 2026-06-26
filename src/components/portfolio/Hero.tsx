@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Mail } from "lucide-react";
-import heroImg from "@/assets/jaswanth-hero.png.asset.json";
+
 
 const roles = ["Python Developer", "Software Engineer", "Deep Learning Explorer"];
 
@@ -96,7 +96,7 @@ export function Hero() {
             <div className="absolute -inset-6 rounded-3xl bg-gradient-to-br from-[oklch(0.68_0.18_260/0.5)] via-[oklch(0.65_0.25_300/0.4)] to-[oklch(0.78_0.21_150/0.35)] blur-2xl" />
             <div className="relative glass rounded-3xl p-3 glow-purple animate-float">
               <img
-                src={heroImg.url}
+                src="/images/jaswanth-hero.png"
                 alt="Guduru Jaswanth — developer portrait"
                 className="rounded-2xl w-[320px] md:w-[420px] aspect-square object-cover"
               />
